@@ -7,3 +7,6 @@ Objetivo: realizar un programa  que registre la fecha, hora de  entrada, que mar
 
 historias de usuario:
 
+
+
+![PANTALLAS_PROYECTO_CorpoGASRH](https://github.com/user-attachments/assets/e027c7c8-9f04-4323-a9ca-a3fc406574be)
