@@ -11,3 +11,9 @@ historias de usuario:
 
 
 ![PANTALLAS_PROYECTO_CorpoGASRH](https://github.com/user-attachments/assets/e027c7c8-9f04-4323-a9ca-a3fc406574be)
+
+
+              MENU PRINCIPAL
+              
+<img width="374" height="497" alt="Captura de pantalla 2025-11-26 223238" src="https://github.com/user-attachments/assets/246261b7-2f79-4cd9-9d92-2aea4f0ebbeb" />
+
